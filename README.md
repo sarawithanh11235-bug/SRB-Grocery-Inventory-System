@@ -1,4 +1,4 @@
-# SRB-Grocery-Inventory-Syste
+# SRB-Grocery-Inventory-System
 
 Tech Stack:        HTML/CSS, JavaScript, BootStrap 4 & Visual Studio Code IDE, planning to add Python & Django with default SQL data (I have yet to learn Python & Django),
 Date:              January 2021,
