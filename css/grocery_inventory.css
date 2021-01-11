@@ -2,7 +2,7 @@
 BMG Coding Assessment
 Grocery Inventory CSS file
 Author: Sarah Blette
-Date:   01/08/2021
+Date:   01/11/2021
 Filename: grocery_inventory.css
 */
 * {
@@ -12,17 +12,17 @@ body {
     background-color: white;
 }
 main {  
-    background-color: rgb(227, 206, 228);
+    background-color:   rgb(236, 229, 236);
     width: 90vw;
     height: 60vh;
     margin: 30px auto;
     padding: 20px;
     display: flex;
     flex-direction: column;
+    box-shadow: 0px 0px 4px 4px rgb(236, 229, 236);
     justify-content: space-between;
     font-family: sans-serif;
     border-radius: 20px;
-    box-shadow: 0px 0px 4px 4px rgb(227, 206, 228);
     cursor: pointer;
 }
 
