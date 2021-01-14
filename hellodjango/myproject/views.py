@@ -4,7 +4,7 @@ from django.http import HttpResponse
 # Create your views here. DJANGO SERVER
 # Email: sblet0001@mail.ct.edu
 # Username: sarah
-# PW: DryadSoraka6
+# PW: *************
 # http://127.0.0.1:8000/
 
 def hello(request):
